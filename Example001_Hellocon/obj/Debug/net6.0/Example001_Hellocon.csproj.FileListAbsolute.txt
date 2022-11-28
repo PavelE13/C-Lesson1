@@ -1,0 +1,15 @@
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\bin\Debug\net6.0\Example001_Hellocon.exe
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\bin\Debug\net6.0\Example001_Hellocon.deps.json
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\bin\Debug\net6.0\Example001_Hellocon.runtimeconfig.json
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\bin\Debug\net6.0\Example001_Hellocon.dll
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\bin\Debug\net6.0\Example001_Hellocon.pdb
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.csproj.AssemblyReference.cache
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.AssemblyInfoInputs.cache
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.AssemblyInfo.cs
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.csproj.CoreCompileInputs.cache
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.dll
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\refint\Example001_Hellocon.dll
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.pdb
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\Example001_Hellocon.genruntimeconfig.cache
+C:\Users\Ben22\Desktop\ExampleC\Example001_Hellocon\obj\Debug\net6.0\ref\Example001_Hellocon.dll
